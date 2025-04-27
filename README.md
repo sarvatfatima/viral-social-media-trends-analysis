@@ -2,7 +2,7 @@
 
 ## Objective
 
-Analyzing viral social media trends to understand engagement patterns across platforms, content types, and regions.
+Analyzing [dataset](https://www.kaggle.com/datasets/atharvasoundankar/viral-social-media-trends-and-engagement-analysis) of viral social media trends to understand engagement patterns across platforms, content types, and regions.
 
 ## Dataset
 
